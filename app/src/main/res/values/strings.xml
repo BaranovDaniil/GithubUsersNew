@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubUsersNew</string>
+    <string name="user_login">user login</string>
+    <string name="user_avatar">user avatar</string>
+    <string name="user_id">user id</string>
+    <string name="github">Перейти на страницу Github</string>
+</resources>
